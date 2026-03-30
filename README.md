@@ -1,4 +1,4 @@
-# 🤖 Budgi.ai — Landing Page
+# 🤖 Badgie.ai — Landing Page
 
 **Agente de inteligencia artificial para escuelas deportivas**
 
